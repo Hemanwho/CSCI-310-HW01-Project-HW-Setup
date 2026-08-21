@@ -1,10 +1,10 @@
 """
-hello.py
+ProjectSetup.py
 ====================================
 This is an example file with correct docstring examples
 
-| Author: Seth McNeill
-| Date: 2025 September 07
+| Author: Christopher Rangel
+| Date: 2026 August 21
 """
 
 class SayHello:
